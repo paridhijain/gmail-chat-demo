@@ -1,0 +1,9 @@
+development:
+  adapter: postgresql
+  host: localhost
+  encoding: unicode
+  database: chat_demo_dev
+  pool: 5
+  username: rails
+  password: rails
+
