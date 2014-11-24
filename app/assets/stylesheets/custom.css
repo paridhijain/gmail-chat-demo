@@ -1,0 +1,10 @@
+.table_size {
+  margin-left: 30%;
+  margin-top: 2%;
+  width: 50%;
+}
+
+table tbody tr.remove_text th {
+  border-right: none;
+  text-align: center;
+}
